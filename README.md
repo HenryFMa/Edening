@@ -7,3 +7,5 @@
 ---
 > _`Confused. Searching...`_
 ### The Jouney
+---
+> _`Let it distributed.`_
